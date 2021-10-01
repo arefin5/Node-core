@@ -74,3 +74,4 @@ Create a .eslintrc.json file in the project root and enter the below contents:
 # start  fs(file system) module :
 # event module :
 # event module paramiter:
+# call emaitor in another file :
