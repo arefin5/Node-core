@@ -69,3 +69,5 @@ Create a .eslintrc.json file in the project root and enter the below contents:
 <!--  -->
 # node js core module :
 # path :
+
+# os module  
