@@ -66,3 +66,13 @@ Create a .eslintrc.json file in the project root and enter the below contents:
 
 
 <!--  -->
+<!--  -->
+# node js core module :
+# path :
+
+# os module  
+# start  fs(file system) module :
+# event module :
+# event module paramiter:
+# call emaitor in another file :
+# start Http :
