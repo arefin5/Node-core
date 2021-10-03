@@ -76,3 +76,6 @@ Create a .eslintrc.json file in the project root and enter the below contents:
 # event module paramiter:
 # call emaitor in another file :
 # start Http :
+
+# streem an buffer :
+
